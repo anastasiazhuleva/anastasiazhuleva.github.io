@@ -1,2 +1,5 @@
-bodyselector { background-image: url("image.jpg"); }
-h1{background-color: yellow; color: red; text-align: center}
+body{background-image: url('wp.jpg'); }
+h1{color: black; text-align: center}
+h2{background-color: azure; color: black; text-align: center}
+h3{font-style: italic; color: black; background-color: aliceblue}
+h4{color: aliceblue}
